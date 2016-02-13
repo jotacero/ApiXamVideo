@@ -1,0 +1,29 @@
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Release\RepositorioAdapter.dll.config
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Release\RepositorioAdapter.dll
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Release\RepositorioAdapter.pdb
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Release\EntityFramework.dll
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Release\EntityFramework.xml
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\obj\Release\RepositorioAdapter.dll
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\obj\Release\RepositorioAdapter.pdb
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Release\RepositorioAdapter.dll.config
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Release\RepositorioAdapter.dll
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Release\RepositorioAdapter.pdb
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Release\EntityFramework.dll
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Release\EntityFramework.xml
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\obj\Release\RepositorioAdapter.csprojResolveAssemblyReference.cache
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\obj\Release\RepositorioAdapter.dll
+C:\Users\luis\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\obj\Release\RepositorioAdapter.pdb
+H:\ApiXamVideo\RepositorioAdapter\bin\Release\RepositorioAdapter.dll.config
+H:\ApiXamVideo\RepositorioAdapter\bin\Release\RepositorioAdapter.dll
+H:\ApiXamVideo\RepositorioAdapter\bin\Release\RepositorioAdapter.pdb
+H:\ApiXamVideo\RepositorioAdapter\bin\Release\EntityFramework.dll
+H:\ApiXamVideo\RepositorioAdapter\bin\Release\EntityFramework.SqlServer.dll
+H:\ApiXamVideo\RepositorioAdapter\bin\Release\EntityFramework.xml
+H:\ApiXamVideo\RepositorioAdapter\bin\Release\EntityFramework.SqlServer.xml
+H:\ApiXamVideo\RepositorioAdapter\obj\Release\RepositorioAdapter.csprojResolveAssemblyReference.cache
+H:\ApiXamVideo\RepositorioAdapter\obj\Release\RepositorioAdapter.dll
+H:\ApiXamVideo\RepositorioAdapter\obj\Release\RepositorioAdapter.pdb

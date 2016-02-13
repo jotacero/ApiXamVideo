@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="UsuariosEntities-Web.config Connection String" description="UsuariosEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.UsuarioModel.csdl|res://*/Models.UsuarioModel.ssdl|res://*/Models.UsuarioModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=of03jgbb4p.database.windows.net;initial catalog=Usuarios;persist security info=True;user id=jotacero;password=jcRO@2478;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\ApiXamVideo\\ApiContactos\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='UsuariosEntities']/@connectionString" />
+  </parameter>
+</parameters>
